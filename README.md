@@ -12,5 +12,5 @@ Pathways  |  Description
 01-Web-Development | A pathway providing an introduction to web development.
 02-Scripting-Languages  | A path toward scripting and basic programming logic.
 03-open-source-degree   | ForrestKnight's open-source computer science degree.
-04... | More to come...
+04-computer-science-OSSU | OSSU's learning pathway
 05... | More to come...
