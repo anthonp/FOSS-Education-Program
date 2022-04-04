@@ -5,7 +5,7 @@ A project compiling various computer science topics from multiple sources to edu
 This pathway is geared toward infosec. You cannot have infosec without foundational
 understandings of different development/auditing technologies. Some of these projects
 are made in-house by anthonp, others are aggregated from other github users under an MIT
-license.
+license. Some belong to anthonp, other content belongs where credit is due.
 
 Pathways  |  Description
 -------- | -------------
